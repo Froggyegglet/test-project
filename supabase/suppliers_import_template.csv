@@ -1,0 +1,2 @@
+name,city,state,service_cities,supplier_type,categories,event_fit,website,email,phone,abn,google_place_id,verified,paid_partner,priority_score,summary
+Example AV Hire,Sydney,NSW,"{Sydney,Parramatta}",hire,"{PA packages,Uplights}","{wedding,party}",https://example.com,quotes@example.com,+61 400 000 000,,place_id_here,false,false,0,Short supplier description.
